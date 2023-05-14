@@ -32,7 +32,9 @@ The team also identified that some columns contained outliers that could affect 
 The team split the dataset into training and testing sets and applied multiple linear regression, ridge regression, lasso regression, elastic net, polynomial regression, decision tree, and random forest to develop models. They used adjusted R2 and RMSE as evaluation metrics.
 
 **Evaluation and Deployment**
+
 The results showed that the Random Forest model outperformed other models, with the highest adjusted R2 score. The team used model explainability to ensure the model's transparency and interpretability, making it ready for deployment.
 
 **Conclusion**
+
 The Seoul Bike Sharing Demand Prediction project demonstrates best practices in data science projects, including understanding the problem and data, applying data processing techniques, performing EDA, evaluating and selecting models, and ensuring transparency and interpretability. The project's success shows the importance of data-driven decision-making in enhancing mobility comfort in urban cities.
